@@ -1,7 +1,9 @@
 ---
 title: Some madness. Be careful reading it
 date: 2021-03-11T15:46:13.730Z
-description: Yolo this is crazy. HUGO and NetlifyCMS are actually pretty sexy.
+description: |-
+  Yolo this is crazy. HUGO and NetlifyCMS are actually pretty sexy.
+  Bat Marian is awesome!
 image: img/photo-1615240198737-c3c9c6f31559.jpg
 ---
 Normally, both your asses would be dead as fucking fried chicken, but you happen to pull this shit while I'm in a transitional period so I don't wanna kill you, I wanna help you. But I can't give you this case, it don't belong to me. Besides, I've already been through too much shit this morning over this case to hand it over to your dumb ass.
